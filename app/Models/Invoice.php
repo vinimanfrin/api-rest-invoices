@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Http\Request;
 
 class Invoice extends Model
 {
@@ -20,4 +21,5 @@ class Invoice extends Model
     {
         return $this->belongsTo(User::class);
     }
+
 }
