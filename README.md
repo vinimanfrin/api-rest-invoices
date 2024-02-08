@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma API REST desenvolvida utilizando o framework Laravel 10. Foi criado com o objetivo de aprimorar os conhecimentos do desenvolvedor nas práticas de desenvolvimento web, especialmente no contexto de APIs RESTful.
+Este projeto é uma API REST desenvolvida utilizando o framework Laravel 10. Foi criado com o objetivo de aprimorar meus conhecimentos nas práticas de desenvolvimento APIs RESTful.
 
 ## Recursos e Tecnologias Utilizadas
 
